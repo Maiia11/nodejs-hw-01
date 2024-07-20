@@ -33,5 +33,26 @@
     "phone": "1-573-617-3069 x948",
     "email": "Leif_Wisozk@yahoo.com",
     "job": "Human Factors Assistant"
+  },
+  {
+    "id": "b6ba4fb6-37c6-4a6f-bf13-94ef7924d984",
+    "name": "Sammy Feeney-Marks",
+    "phone": "(687) 892-0086 x242",
+    "email": "Cristal.Waters99@hotmail.com",
+    "job": "Chief Configuration Representative"
+  },
+  {
+    "id": "cfd09866-c381-40c9-87cf-7cc56ee6a816",
+    "name": "Jeffery Mills",
+    "phone": "(771) 348-4979 x032",
+    "email": "Roselyn32@gmail.com",
+    "job": "Lead Security Designer"
+  },
+  {
+    "id": "cc444d79-1a53-4946-9627-ce0eb99efd9e",
+    "name": "Dr. Percy Huels",
+    "phone": "1-753-754-9406 x7794",
+    "email": "Skyla.Schmitt@hotmail.com",
+    "job": "International Paradigm Facilitator"
   }
 ]
